@@ -1,0 +1,14 @@
+{
+  "semaforos": [
+    {
+      "id": 1,
+      "nome": "Semáforo 1",
+      "adicionado": "2021-12-31"
+    },
+    {
+      "nome": "Semáforo 2",
+      "adicionado": "2005-08-22",
+      "id": 2
+    }
+  ]
+}
